@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+
+# Exclude AoC input files
+*.txt
